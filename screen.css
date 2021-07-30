@@ -157,7 +157,7 @@ IMG
 }
 .leftmenu .colleft
 {
-	right: 75%;
+	right: 65%;
 /*right column width*/
 	background: #FFFFFF;
 /*background:#f4f4f4;
@@ -165,21 +165,21 @@ left column background colour*/
 }
 .leftmenu .col1
 {
-	width: 75%;
+	width: 65%;
 /*right column content width*/
 	left: 100%;
 /*100% plus left column left padding*/
 }
 .leftmenu .col2
 {
-	width: 25%;
+	width: 35%;
 /*left column content width (column width minus left and right padding)*/
 	left: 8%;
 /*(right column left and right padding) plus (left column left padding)*/
 }
 .leftmenu .box1
 {
-	width: 90%;
+	width: 80%;
 /*left column content width (column width minus left and right padding)*/
 	padding: 2px;
 /*(right column left and right padding) plus (left column left padding)*/
