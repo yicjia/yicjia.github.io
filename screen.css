@@ -174,12 +174,12 @@ left column background colour*/
 {
 	width: 25%;
 /*left column content width (column width minus left and right padding)*/
-	left: 5%;
+	left: 8%;
 /*(right column left and right padding) plus (left column left padding)*/
 }
 .leftmenu .box1
 {
-	width: 80%;
+	width: 90%;
 /*left column content width (column width minus left and right padding)*/
 	padding: 2px;
 /*(right column left and right padding) plus (left column left padding)*/
