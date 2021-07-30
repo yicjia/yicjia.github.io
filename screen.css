@@ -157,7 +157,7 @@ IMG
 }
 .leftmenu .colleft
 {
-	right: 70%;
+	right: 75%;
 /*right column width*/
 	background: #FFFFFF;
 /*background:#f4f4f4;
@@ -165,16 +165,16 @@ left column background colour*/
 }
 .leftmenu .col1
 {
-	width: 70%;
+	width: 75%;
 /*right column content width*/
 	left: 100%;
 /*100% plus left column left padding*/
 }
 .leftmenu .col2
 {
-	width: 30%;
+	width: 25%;
 /*left column content width (column width minus left and right padding)*/
-	left: 8%;
+	left: 5%;
 /*(right column left and right padding) plus (left column left padding)*/
 }
 .leftmenu .box1
